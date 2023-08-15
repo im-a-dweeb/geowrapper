@@ -5,7 +5,7 @@ GeoWrapper is a wrapper that allows easy access to the [Rest-Countries API](http
 
 ## Installation 📩
 * Open the terminal in your project directory.
-`npm install @lufthor/geowrapper`
+* then run --> `npm install @lufthor/geowrapper` in the terminal
 
 ## Internals (Nerdy Stuff)
 * This package uses the `https` module found in `Node.JS` and uses modules
@@ -40,4 +40,9 @@ async function returnRegionInfo(region) {
 I'm open to contributions so go ahead, I don't mind as long as the code is clean and is tested before-hand.
 
 ## Starting
-Once you've ran the command from [here]()
+* Once you've ran the command from [here](https://github.com/im-a-dweeb/geowrapper/blob/main/README.md#installation-)
+* Create a new JS file.
+* at the top write `const gw = require('@lufthor/geowrapper')` OR `const gw = require('geowrapper')`
+
+## Documentation
+The documentation can be found [HERE]()

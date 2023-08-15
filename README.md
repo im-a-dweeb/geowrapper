@@ -45,4 +45,4 @@ I'm open to contributions so go ahead, I don't mind as long as the code is clean
 * at the top write `const gw = require('@lufthor/geowrapper')` OR `const gw = require('geowrapper')`
 
 ## Documentation
-The documentation can be found [HERE]()
+The documentation can be found [HERE](https://github.com/im-a-dweeb/geowrapper/blob/main/docs.md#functions)

@@ -1,2 +1,2 @@
-# geowrapper
-A wrapper for rest countries
+# GeoWrapper
+<span style="color:blue">some *blue* text</span>.
